@@ -5,3 +5,4 @@ echo "Date : $(date)"
 echo "Place libre sur le disque: "
 echo "$espace"
 #Le script sert à présenter la machine globalement
+echo "Fin de la présentation"
